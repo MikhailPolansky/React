@@ -1,0 +1,47 @@
+#root {
+  text-align: center;
+}
+
+.p1 {
+  margin: 5px;
+  background-color: silver;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.radio {
+  margin: 10px auto;
+  background-color: silver;
+  border-radius: 10px;
+  font-size: 20px;
+
+}
+.d {
+  margin: 5px;
+}
+span {
+  margin: 5px;
+}
+b {
+  border-bottom: solid;
+}
+
+.auto {
+  margin: 10px;
+  padding: 5px;
+}
+.aut {
+  padding: 5px;
+
+}
+#engine {
+  padding: 5px;
+}
+
+.style-field {
+  margin: 10px;
+}
+.cursor {
+  cursor: pointer;
+}
+
