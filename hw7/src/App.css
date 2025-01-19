@@ -1,0 +1,50 @@
+#root {
+  text-align: center;
+}
+
+img {
+  height: 75px;
+}
+
+span {
+  border-bottom: 1px solid;
+  font-size: 20px;
+}
+
+button {
+  padding: 5px;
+  margin: 10px;
+}
+
+.wrap {
+  background-color: rgb(227, 215, 215);
+}
+
+.nav {
+  background-color: bisque;
+}
+.cont1 {
+  background-color: burlywood;
+}
+.cont2 {
+  background-color: chocolate;
+}
+.foot {
+  background-color: darkorange;
+}
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
+
