@@ -1,0 +1,69 @@
+#root {
+  text-align: center;
+  font-family: cursive;
+}
+body {
+  background-color: rgb(187, 191, 195);
+  min-width: 380px;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  margin: 20px 0;
+  text-decoration: none;
+  color: gray;
+}
+.active {
+  font-size: 20px;
+  color: black;
+}
+img {
+  height: 20px;
+  margin-right: 10px;
+}
+li {
+  font-size: 23px;
+  list-style-type: none;
+  margin: 10px 0;
+}
+.marg {
+  padding: 5px;
+  font-size: 18px;
+}
+.view {
+  border: 1px solid gray;
+  margin: 5px;
+  position: "relative"
+}
+.screen {
+  border: 1px solid gray;
+}
+.rhap_container {
+  background-color: rgb(94, 91, 91) !important;
+}
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+}
+.text {
+  font-size: 20px;
+  width: 80%;
+  margin-left: 7%;
+}
+.picture {
+  width: 50%;
+  height: 50%;
+  color: gray;
+}
+
+
+
+
+
+
+
+
+
